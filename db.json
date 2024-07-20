@@ -211,5 +211,40 @@
       "resolved_by": "admin",
       "resolved_date": "7/14/2024, 9:55:45 PM"
     }
-  ]
+  ],
+    "users": [
+        {
+            "id": 66772,
+            "name": "user2",
+            "email": "rajachowdaboina3@gmail.com",
+            "password": "Raja@shiva8688",
+            "role": "user",
+            "dept": "Web_dept"
+        },
+        {
+            "id": 2299,
+            "name": "user2",
+            "email": "rajachowdaboinar@gmail.com",
+            "password": "Raja@shiva8688",
+            "role": "user",
+            "dept": "SAP_dept"
+        },
+        {
+            "id": 2299,
+            "name": "user2",
+            "email": "kavyagunji39@gmail.com",
+            "password": "Raja@shiva8688",
+            "role": "user",
+            "dept": "SAP_dept"
+        },
+        {
+            
+            "id": 2299,
+            "name": "user2",
+            "email": "admin@123.com",
+            "password": "123",
+            "role": "admin",
+            "dept": "SAP_dept"
+        }
+    ]
 }
